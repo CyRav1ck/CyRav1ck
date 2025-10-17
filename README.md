@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Current Personal Projects
+
+- Custom website for running my asynchronous RPG game
+- Expanding my home lab
+
+### Photography
+Recently switched from Lightroom to Darktable and have begun learning how to make my own tooling with in [Darktable](https://github.com/darktable-org/darktable)
+
+See my [portfolio](https://www.jsd.photography/)
+
