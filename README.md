@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 ### Current Personal Projects
 
+Most of my personal code is migrating towards [codeberg](https://codeberg.org/CyRav1ck)
+
 - Custom website for running my asynchronous RPG game
 - Expanding my home lab
+- MISTWEAVER: My personal note taking system: [MISTWEAVER](https://codeberg.org/CyRav1ck/MISTWEAVER)
+- WYNDLE: a tool for organizing ai artificts such as agents.md [WYNDLE](https://codeberg.org/CyRav1ck/WYNDLE)
+- 
 
 ### Photography
 Recently switched from Lightroom to Darktable and have begun learning how to make my own tooling with in [Darktable](https://github.com/darktable-org/darktable)
 
-See my [portfolio](https://www.jsd.photography/)
-
+See my [portfolio](https://www.jens.photos)
